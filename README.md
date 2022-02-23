@@ -1,7 +1,7 @@
 
-# NEAR Macros
+# NEAR Rust Macros Library (NRML)
 
-Near Macros is a collection of contracts and macros that can be added directly to any project to add additional functionality without slowing down development. 
+Near Rust Macros Library (NRML) is a collection of contracts and macros that can be added directly to any project to add additional functionality without slowing down development. 
 
 ## NOTE
 Currently, those macros are in the process of audit. Therefore, use it at your own risk in production.
