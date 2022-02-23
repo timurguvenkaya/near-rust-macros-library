@@ -6,9 +6,9 @@ Access Control NEAR is a library for implementing role-based access control mode
 
 The **Roles** map consists of **Role** to **Role Data** mapping. New members are added to the **members** set by inserting new **AccountId**. Each role has an **Admin Role**, whose members are allowed to perform privileged actions on the role that derives it. Default **admin_role** for all created roles is `default_admin` 
 
-![diagram1.png](https://drive.google.com/uc?export=view&id=1xIYK69PBWhzbV83z4Bs02bm-J3rCExRW) 
+![diagram1.png](https://github.com/timurguvenkaya/near-rust-macros-library/blob/master/src/access_control_near/images/diagram1.png) 
 
-![diagram2.png](https://drive.google.com/uc?export=view&id=1zMc0XmZ68BtDiYtimMe5KmktxB-Trdpz)
+![diagram2.png](https://github.com/timurguvenkaya/near-rust-macros-library/blob/master/src/access_control_near/images/diagram2.png)
 
 ### Methods
 
