@@ -35,7 +35,7 @@ For each contract, there is macro and its respective macro expansion. You can fi
 ```
 ## Usage
 
-All contracts and macros come with their __README.md__ file explaining the usage. If you want to combine different macros, you must add their names into `require` attribute macro. If a particular macro adds a new field to a struct, that new field has to be initialized with `init_macro` in the constructor. You can find all available macro names below. Please note that the project is in the __alpha__ stage; hence you need to pull it directly from Github to use.
+All contracts and macros come with their __README.md__ file explaining the usage. If you want to combine different macros, you must add their names into `require` attribute macro. If a particular macro adds a new field to a struct, that new field has to be initialized with `init_macro` in the constructor. You can find all available macro names below. Please note that the project is in the __alpha__ stage; hence you need to pull it directly from Github to use (there is no deployed create yet).
 
 - Access Control Macro: __Access__
 - Pausable Macro: __Pausable__

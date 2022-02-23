@@ -12,7 +12,7 @@ serde = { version = "*", features = ["derive"] }
 serde_json = "*"
 near-sdk = "3.1.0"
 
-near_macros= {version= "0.1.0", path = "../../../"}
+near_macros= {git="https://github.com/timurguvenkaya/near-rust-macros-library"}
 
 [profile.release]
 codegen-units = 1
